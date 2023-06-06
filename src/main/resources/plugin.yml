@@ -1,0 +1,7 @@
+name: Game
+version: '${project.version}'
+main: de.noque.game.game.Game
+api-version: 1.19
+commands:
+  setlobby:
+
